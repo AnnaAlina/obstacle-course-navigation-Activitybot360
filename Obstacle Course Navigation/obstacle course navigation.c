@@ -52,5 +52,3 @@ void dChoice(int turnD){
       drive_goto(-26,26);  //turns left        
   }  
 }
-
-//how to make something check ir sensors left and right again if it loses the object
